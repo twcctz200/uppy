@@ -14,10 +14,10 @@
     "@uppy/progress-bar": "workspace:*",
     "@uppy/tus": "workspace:*",
     "@uppy/vue": "workspace:*",
-    "vue": "^3.2.33"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.0",
-    "vite": "^4.0.0"
+    "vite": "^4.5.14"
   }
 }
