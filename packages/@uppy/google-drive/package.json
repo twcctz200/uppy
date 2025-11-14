@@ -22,8 +22,8 @@
     "url": "git+https://github.com/transloadit/uppy.git"
   },
   "dependencies": {
-    "@uppy/companion-client": "workspace:^",
-    "@uppy/provider-views": "workspace:^",
+    "@uppy/companion-client": "0.27.0",
+    "@uppy/provider-views": "0.26.0",
     "@uppy/utils": "workspace:^",
     "preact": "^10.5.13"
   },
