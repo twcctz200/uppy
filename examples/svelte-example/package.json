@@ -35,7 +35,7 @@
     "@uppy/svelte": "workspace:*",
     "@uppy/webcam": "workspace:*",
     "@uppy/xhr-upload": "workspace:*",
-    "formidable": "^2.0.1",
+    "formidable": "^2.1.5",
     "sirv-cli": "^1.0.0"
   },
   "private": true
