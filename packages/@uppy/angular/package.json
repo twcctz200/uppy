@@ -16,8 +16,8 @@
   "dependencies": {
     "@angular/animations": ">= 14",
     "@angular/common": ">= 14",
-    "@angular/compiler": ">= 14",
-    "@angular/core": ">= 14",
+    "@angular/compiler": ">=19.2.18",
+    "@angular/core": ">=19.2.18",
     "@angular/forms": ">= 14",
     "@angular/platform-browser": ">= 14",
     "@angular/platform-browser-dynamic": ">= 14",
