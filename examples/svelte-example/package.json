@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/svelte": "workspace:*",
+    "@uppy/svelte": "0.1.1",
     "@uppy/webcam": "workspace:*",
     "@uppy/xhr-upload": "workspace:*",
     "formidable": "^2.0.1",
