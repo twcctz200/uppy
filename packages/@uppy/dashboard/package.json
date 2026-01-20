@@ -27,7 +27,7 @@
     "@uppy/informer": "workspace:^",
     "@uppy/provider-views": "workspace:^",
     "@uppy/status-bar": "workspace:^",
-    "@uppy/thumbnail-generator": "workspace:^",
+    "@uppy/thumbnail-generator": "0.26.0",
     "@uppy/utils": "workspace:^",
     "classnames": "^2.2.6",
     "is-shallow-equal": "^1.0.1",
