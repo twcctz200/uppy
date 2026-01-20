@@ -32,9 +32,9 @@
   },
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/svelte": "workspace:*",
+    "@uppy/svelte": "0.1.1",
     "@uppy/webcam": "workspace:*",
-    "@uppy/xhr-upload": "workspace:*",
+    "@uppy/xhr-upload": "0.26.0",
     "formidable": "^2.0.1",
     "sirv-cli": "^1.0.0"
   },
