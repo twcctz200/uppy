@@ -29,8 +29,8 @@
   },
   "dependencies": {
     "@uppy/companion-client": "workspace:^",
-    "@uppy/provider-views": "workspace:^",
-    "@uppy/tus": "workspace:^",
+    "@uppy/provider-views": "0.26.0",
+    "@uppy/tus": "0.26.0",
     "@uppy/utils": "workspace:^",
     "component-emitter": "^1.2.1",
     "socket.io-client": "^4.1.3"
