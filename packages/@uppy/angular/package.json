@@ -22,7 +22,7 @@
     "@angular/platform-browser": ">= 14",
     "@angular/platform-browser-dynamic": ">= 14",
     "@angular/router": ">= 14",
-    "@uppy/dashboard": "workspace:^",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/drag-drop": "workspace:^",
     "@uppy/progress-bar": "workspace:^",
     "@uppy/status-bar": "workspace:^",
