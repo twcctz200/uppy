@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@uppy/box": "workspace:^",
-    "@uppy/dashboard": "workspace:^",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/dropbox": "workspace:^",
     "@uppy/facebook": "workspace:^",
     "@uppy/google-drive": "workspace:^",
@@ -36,7 +36,7 @@
     "@uppy/onedrive": "workspace:^",
     "@uppy/unsplash": "workspace:^",
     "@uppy/url": "workspace:^",
-    "@uppy/zoom": "workspace:^"
+    "@uppy/zoom": "0.1.0"
   },
   "peerDependencies": {
     "@uppy/core": "workspace:^"
