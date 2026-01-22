@@ -28,9 +28,9 @@
   },
   "dependencies": {
     "@transloadit/prettier-bytes": "0.0.9",
-    "@uppy/utils": "workspace:^",
+    "@uppy/utils": "0.26.0",
     "classnames": "^2.2.6",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "preact": "^10.5.13"
   },
   "peerDependencies": {
