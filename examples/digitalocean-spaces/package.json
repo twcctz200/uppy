@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
-    "@uppy/aws-s3": "workspace:*",
+    "@uppy/aws-s3": "0.26.0",
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5"
   },
