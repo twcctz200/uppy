@@ -23,8 +23,8 @@
   "dependencies": {
     "@transloadit/prettier-bytes": "0.0.9",
     "@uppy/store-default": "workspace:^",
-    "@uppy/utils": "workspace:^",
-    "lodash": "^4.17.21",
+    "@uppy/utils": "0.26.0",
+    "lodash": "^4.17.23",
     "mime-match": "^1.0.2",
     "namespace-emitter": "^2.0.1",
     "nanoid": "^4.0.0",
