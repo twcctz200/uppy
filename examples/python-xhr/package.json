@@ -4,9 +4,9 @@
   "type": "module",
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/webcam": "workspace:*",
-    "@uppy/xhr-upload": "workspace:*"
+    "@uppy/xhr-upload": "0.26.0"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.3",
