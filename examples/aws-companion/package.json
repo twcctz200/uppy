@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
-    "@uppy/aws-s3": "workspace:*",
+    "@uppy/aws-s3": "0.26.0",
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
-    "@uppy/google-drive": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
+    "@uppy/google-drive": "0.26.0",
     "@uppy/webcam": "workspace:*"
   },
   "devDependencies": {
