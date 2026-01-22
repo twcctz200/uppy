@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
-    "mdast-comment-marker": "^2.1.0",
+    "mdast-comment-marker": "^3.0.0",
     "remark-frontmatter": "^4.0.0",
-    "remark-lint": "^9.0.0",
+    "remark-lint": "^10.0.0",
     "remark-lint-emphasis-marker": "^3.0.0",
     "remark-lint-final-newline": "^2.0.0",
     "remark-lint-hard-break-spaces": "^3.0.0",
