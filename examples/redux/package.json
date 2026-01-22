@@ -5,9 +5,9 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/store-redux": "workspace:*",
-    "@uppy/tus": "workspace:*",
+    "@uppy/tus": "0.26.0",
     "redux": "^4.2.1",
     "redux-logger": "^3.0.6"
   },
