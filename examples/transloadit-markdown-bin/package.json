@@ -4,10 +4,10 @@
   "type": "module",
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/drop-target": "workspace:*",
     "@uppy/image-editor": "workspace:*",
-    "@uppy/remote-sources": "workspace:*",
+    "@uppy/remote-sources": "0.1.0",
     "@uppy/transloadit": "workspace:*",
     "@uppy/webcam": "workspace:*",
     "marked": "^4.0.18"
