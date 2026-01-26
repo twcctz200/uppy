@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@transloadit/prettier-bytes": "^0.0.9",
-    "@uppy/utils": "workspace:^",
+    "@uppy/utils": "0.26.0",
     "compressorjs": "^1.1.1",
     "preact": "^10.5.13",
     "promise-queue": "^2.2.5"
