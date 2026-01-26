@@ -4,7 +4,7 @@
   "dependencies": {
     "@uppy/core": "workspace:*",
     "@uppy/dashboard": "workspace:*",
-    "@uppy/xhr-upload": "workspace:*",
+    "@uppy/xhr-upload": "0.26.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "multer": "^1.4.1"
