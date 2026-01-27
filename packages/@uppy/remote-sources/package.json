@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@uppy/box": "workspace:^",
-    "@uppy/dashboard": "workspace:^",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/dropbox": "workspace:^",
     "@uppy/facebook": "workspace:^",
     "@uppy/google-drive": "workspace:^",
