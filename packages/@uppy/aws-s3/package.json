@@ -26,7 +26,7 @@
     "@uppy/aws-s3-multipart": "workspace:^",
     "@uppy/companion-client": "workspace:^",
     "@uppy/utils": "workspace:^",
-    "@uppy/xhr-upload": "workspace:^",
+    "@uppy/xhr-upload": "0.26.0",
     "nanoid": "^4.0.0"
   },
   "devDependencies": {
