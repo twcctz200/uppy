@@ -7,7 +7,7 @@
     "@uppy/core": "workspace:*",
     "@uppy/dashboard": "workspace:*",
     "@uppy/store-redux": "workspace:*",
-    "@uppy/tus": "workspace:*",
+    "@uppy/tus": "0.26.0",
     "redux": "^4.2.1",
     "redux-logger": "^3.0.6"
   },
