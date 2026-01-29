@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/google-drive": "workspace:*",
     "@uppy/instagram": "workspace:*",
     "@uppy/tus": "workspace:*",
-    "@uppy/url": "workspace:*",
-    "@uppy/webcam": "workspace:*"
+    "@uppy/url": "0.26.0",
+    "@uppy/webcam": "0.26.0"
   },
   "devDependencies": {
     "parcel": "^2.0.0"
