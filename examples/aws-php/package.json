@@ -5,7 +5,7 @@
     "@uppy/aws-s3": "workspace:*",
     "@uppy/core": "workspace:*",
     "@uppy/dashboard": "workspace:*",
-    "uppy": "workspace:*"
+    "uppy": "0.0.1"
   },
   "devDependencies": {
     "esbuild": "^0.17.1"
