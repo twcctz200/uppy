@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
-    "mdast-comment-marker": "^2.1.0",
+    "mdast-comment-marker": "^3.0.0",
     "remark-frontmatter": "^4.0.0",
     "remark-lint": "^9.0.0",
     "remark-lint-emphasis-marker": "^3.0.0",
