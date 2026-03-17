@@ -64,7 +64,7 @@
     "redis": "4.2.0",
     "semver": "7.5.3",
     "serialize-error": "^2.1.0",
-    "serialize-javascript": "^6.0.0",
+    "serialize-javascript": "^7.0.4",
     "tus-js-client": "^3.0.0",
     "validator": "^13.0.0",
     "ws": "8.8.1"

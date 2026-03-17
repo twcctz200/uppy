@@ -19,7 +19,7 @@
     "postcss": "^8.2.1",
     "postcss-import": "^13.0.0",
     "postcss-load-config": "^3.0.0",
-    "rollup": "^2.60.2",
+    "rollup": "^4.59.0",
     "rollup-plugin-css-only": "^3.0.0",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.0.0",
